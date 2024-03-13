@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,emby3.mcjoker.xyz
 DOMAIN-SUFFIX,coemn.com
 DOMAIN-SUFFIX,emby.9191001.xyz
 DOMAIN-SUFFIX,v.20120714.xyz
-DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,mjjemby.org
 DOMAIN-SUFFIX,freetz.top
 DOMAIN-SUFFIX,film.ohhhh.org
@@ -38,3 +37,4 @@ DOMAIN-SUFFIX,s2.bgka.me
 DOMAIN-SUFFIX,20120714.xyz
 IP-CIDR,167.235.116.53/32
 DOMAIN-SUFFIX,film.reddust.link
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
