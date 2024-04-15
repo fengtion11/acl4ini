@@ -6,4 +6,7 @@ payload:
   - DOMAIN-SUFFIX,mihayo.com
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,miyoushe.com
-  - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN-SUFFIX,yuanshen.com  
+  - DOMAIN-SUFFIX,webstatic.mihoyo.com
+  - DOMAIN-SUFFIX,webstatic-sea.hoyoverse.com
+  - DOMAIN-SUFFIX,hk4e-api.mihoyo.com
